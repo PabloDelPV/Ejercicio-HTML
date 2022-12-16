@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <tittle>
+        <title>
             Ejercicio de Introducción a HTML en OpenBootcamp
-        </tittle>
+        </title>
+    </head>
         <body>
             <div> Este es mi primer comentario de dos líneas</div>
             <div>Aprendiendo a documentar mi código con OpenBootcamp</div>
@@ -15,5 +16,4 @@
             </ul>
         </div>
         </body>
-    </head>
 </html>
